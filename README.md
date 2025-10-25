@@ -1,2 +1,2 @@
 # AD
-Data analysis at Nikita Volkov's course
+Data analysis at Nikita's Volkov course
